@@ -8,7 +8,7 @@
 
 🎓 **ML & Software Engineer** graduated with a Master's Degree from University of M'sila  
 🌍 **Location**: Algeria  
-💻 **Website**: [www.sohaibhaouam.com](https://www.sohaibhaouam.com)  
+💻 **Website**: [www.sohaibhaouam.dev](https://www.sohaibhaouam.dev)  
 📧 **Email**: haouamsohaib@gmail.com  
 
 ## 🛠️ Technologies & Tools
